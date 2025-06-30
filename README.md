@@ -8,7 +8,7 @@ Gas leakage, Fire and Smoke Detection System with Alarm and SMS Alert
 - Buzzer
 - GSM Module (SIM900A)
 - SIM Card
-- Breadboard and Jumper Wires
+- umper Wires
 - Power Supply (5V)
 
 ## Features
